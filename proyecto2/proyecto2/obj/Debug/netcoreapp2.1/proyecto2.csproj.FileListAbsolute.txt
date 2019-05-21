@@ -1,0 +1,14 @@
+C:\Users\Andree Avalos\source\repos\proyecto2\proyecto2\bin\Debug\netcoreapp2.1\proyecto2.deps.json
+C:\Users\Andree Avalos\source\repos\proyecto2\proyecto2\bin\Debug\netcoreapp2.1\proyecto2.runtimeconfig.json
+C:\Users\Andree Avalos\source\repos\proyecto2\proyecto2\bin\Debug\netcoreapp2.1\proyecto2.runtimeconfig.dev.json
+C:\Users\Andree Avalos\source\repos\proyecto2\proyecto2\bin\Debug\netcoreapp2.1\proyecto2.dll
+C:\Users\Andree Avalos\source\repos\proyecto2\proyecto2\obj\Debug\netcoreapp2.1\proyecto2.csprojAssemblyReference.cache
+C:\Users\Andree Avalos\source\repos\proyecto2\proyecto2\obj\Debug\netcoreapp2.1\proyecto2.csproj.CoreCompileInputs.cache
+C:\Users\Andree Avalos\source\repos\proyecto2\proyecto2\obj\Debug\netcoreapp2.1\proyecto2.RazorAssemblyInfo.cache
+C:\Users\Andree Avalos\source\repos\proyecto2\proyecto2\obj\Debug\netcoreapp2.1\proyecto2.RazorAssemblyInfo.cs
+C:\Users\Andree Avalos\source\repos\proyecto2\proyecto2\obj\Debug\netcoreapp2.1\proyecto2.AssemblyInfoInputs.cache
+C:\Users\Andree Avalos\source\repos\proyecto2\proyecto2\obj\Debug\netcoreapp2.1\proyecto2.AssemblyInfo.cs
+C:\Users\Andree Avalos\source\repos\proyecto2\proyecto2\obj\Debug\netcoreapp2.1\proyecto2.RazorTargetAssemblyInfo.cache
+C:\Users\Andree Avalos\source\repos\proyecto2\proyecto2\bin\Debug\netcoreapp2.1\proyecto2.pdb
+C:\Users\Andree Avalos\source\repos\proyecto2\proyecto2\obj\Debug\netcoreapp2.1\proyecto2.dll
+C:\Users\Andree Avalos\source\repos\proyecto2\proyecto2\obj\Debug\netcoreapp2.1\proyecto2.pdb
